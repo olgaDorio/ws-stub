@@ -1,0 +1,29 @@
+{
+  "name": "ws-stub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "6.2.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olgaDorio/ws-stub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olgaDorio/ws-stub/issues"
+  },
+  "homepage": "https://github.com/olgaDorio/ws-stub#readme",
+  "dependencies": {
+    "bufferutil": "4.0.0",
+    "express": "4.16.4",
+    "utf-8-validate": "5.0.1",
+    "ws": "6.1.0"
+  }
+}
